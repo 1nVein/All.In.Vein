@@ -4,8 +4,8 @@ body {
     color: #ffffff;
     text-align: center;
      background-image: url('images/Backround.png');
-      background-size: cover;
-    background-color: #1C1C1C;
+      background-size: fill;
+    background-color: none
     cursor: url('images/pointerblue1.png'), none;
     padding-top: 9.5%;
   }
