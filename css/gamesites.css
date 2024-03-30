@@ -1,11 +1,10 @@
 body {
+    background-image: url('images/Backround.png');
+      background-size: cover;
     font-family: Roboto, sans-serif;
     font-size: 13.3333px;
     color: #ffffff;
     text-align: center;
-     background-image: url('images/Backround.png');
-      background-size: fill;
-    background-color: none
     cursor: url('images/pointerblue1.png'), none;
     padding-top: 9.5%;
   }
