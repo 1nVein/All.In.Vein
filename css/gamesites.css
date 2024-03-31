@@ -115,7 +115,7 @@ body {
   .btn {
 color: #dd00ff;
 background: rgb(121, 121, 121);
-background: #292929;
+background: #fcb8b8;
 padding: 10px 16px;
 line-height: 1.3333333;
 border-radius: 10px;
@@ -155,7 +155,7 @@ margin-top: 20px;
 margin: 0 auto;
 width: 55%;
 color: #dd00ff;
-background-color:  #292929;
+background-color:  #fcb8b8;
 border-color: #676767;
 padding: 8px 0 14px 0;
 margin-bottom: 10px;
