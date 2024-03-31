@@ -3,9 +3,16 @@
     font-size: 13.3333px;
     color: #ffffff;
     text-align: center;
-    background-color: #1C1C1C;
     cursor: url('images/pointerblue1.png'), none;
     padding-top: 9.5%;
+        .hero-image {
+  background-image: url("background.png");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
   }
 
   a:hover,
