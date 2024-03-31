@@ -49,7 +49,7 @@ body {
   }
 
   .navitems a {
-    color: #fff;
+    color: #dd00ff;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s ease-in-out;
@@ -110,7 +110,7 @@ body {
   }
 
   .btn {
-color: #fff;
+color: #dd00ff;
 background: rgb(121, 121, 121);
 background: #292929;
 padding: 10px 16px;
@@ -125,7 +125,7 @@ position: relative;
 
 .btn:hover {
 background-color: #555;
-color: #fff;
+color: #dd00ff;
 box-shadow: 3px 3px 3px #DC143C;
 transform: translateY(-5px);
 transition: transform 0.5s ease, background-color 0.5s ease; /* Slow down the transform transition */
@@ -151,7 +151,7 @@ margin-top: 20px;
 .alert {
 margin: 0 auto;
 width: 55%;
-color: #fff;
+color: #dd00ff;
 background-color:  #292929;
 border-color: #676767;
 padding: 8px 0 14px 0;
