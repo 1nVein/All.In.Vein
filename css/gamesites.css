@@ -1,9 +1,10 @@
 body {
-    background-image: url('images/background.png'), url('images/background1.png');
-    background-repeat: repeat, no-repeat;
+    background-image: url("images/background.png");
+    background-color: ffffff;
+    height: 500px;
     background-position: center;
     background-size: cover;
-    font-family: Papyrus;
+    font-family: Papyrus, roman-typeface;
     font-size: 13.3333px;
     color: #dd00ff;
     text-align: center;
