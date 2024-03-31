@@ -1,9 +1,9 @@
 body {
     background-image: url('images/Backround.png');
       background-size: cover;
-    font-family: Papyrus, sans-serif;
+    font-family: Papyrus;
     font-size: 13.3333px;
-    color: #ffffff;
+    color: #dd00ff;
     text-align: center;
     cursor: url('images/pointerblue1.png'), none;
     padding-top: 9.5%;
