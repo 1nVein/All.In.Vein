@@ -1,9 +1,4 @@
 body {
-    background-image: url('background.png'), background;
-    background-color: ffffff;
-    background-position: center;
-    background-size: cover;
-}
     font-family: Papyrus, roman-typeface;
     font-size: 13.3333px;
     color: #dd00ff;
