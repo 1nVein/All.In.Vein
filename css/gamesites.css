@@ -1,6 +1,8 @@
 body {
-    background-image: url('images/Backround.png');
-      background-size: cover;
+    background-image: url("images/Backround.png"), url("images/Backround1.png");
+    background-repeat: repeat, no-repeat;
+    background-position: center;
+    background-size: cover;
     font-family: Papyrus;
     font-size: 13.3333px;
     color: #dd00ff;
