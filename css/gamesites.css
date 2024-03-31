@@ -33,7 +33,7 @@ body {
   .logo {
     height: 45px;
     border-radius: 15px;
-    position: right;
+    position: absolute;
     top: 50%;
     transform: translateY(-50%);
     left: 5px;
