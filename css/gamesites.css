@@ -3,7 +3,7 @@ body {
     font-size: 13.3333px;
     color: #dd00ff;
     text-align: center;
-     background-image: url('/images/background.png');
+    background-image: url('/images/background.png');
     background-color: #cccccc;
     background-position: center;
     background-size: cover;
